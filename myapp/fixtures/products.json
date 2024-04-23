@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Premium Milk Chocolate Bar",
+            "price": 7,
+            "description": "Creamy milk chocolate made in Belgium."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "Premium Dark Chocolate Bar",
+            "price": 5,
+            "description": "80% cocoa milk chocolate made in Belgium."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "Premium Crispy Milk Chocolate Bar",
+            "price": 9,
+            "description": "Creamy milk chocolate with rice bits made in Belgium."
+        }
+    }
+]
